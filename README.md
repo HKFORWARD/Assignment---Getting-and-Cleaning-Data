@@ -2,4 +2,6 @@
 run_analysis.R
 
 How the script works
-First change the work dirrectory to the right one and proceed.
+1. 
+
+
